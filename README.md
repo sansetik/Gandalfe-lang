@@ -5,3 +5,6 @@
  # Install
  
  ## npm install @minikurka/gandalf-lang
+
+ # Versions:
+  version - 0.0.14
