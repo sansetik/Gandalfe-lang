@@ -1,3 +1,3 @@
-﻿# dandalfe-lang - language translate for Java Script
- 
- ﻿# Install
+﻿# gandalfe-lang - language translate for Java Script
+
+ # Install
