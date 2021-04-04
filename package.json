@@ -1,0 +1,23 @@
+{
+  "name": "gandalfe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./gandalfe/start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sansetik/Gandalfe-lang.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sansetik/Gandalfe-lang/issues"
+  },
+  "homepage": "https://github.com/sansetik/Gandalfe-lang#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security"
+  }
+}

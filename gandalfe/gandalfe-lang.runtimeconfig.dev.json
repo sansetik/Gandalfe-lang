@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BigKurka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BigKurka\\.nuget\\packages"
+    ]
+  }
+}
