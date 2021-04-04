@@ -1,6 +1,7 @@
 console.log("\x1b[36m%s\x1b[0m","___________________________");
+
 console.log("\x1b[36m%s\x1b[0m","Gandalfe Language Build ...");
-console.log("Version: 0.0.12 Alpha - Author: MiniKurka (sansetik)");    
+console.log("Version: 0.0.14.1 Alpha - Author: MiniKurka (sansetik)");    
 console.log("\x1b[36m%s\x1b[0m","___________________________");    
 console.log("\x1b[36m%s\x1b[0m","                           ");      
 
